@@ -1,5 +1,5 @@
 # Maven build directory
-target/
+../target/
 
 # IDE files
 .idea/
@@ -39,6 +39,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Frontend build
-frontend/build/
-frontend/node_modules/
-frontend/frontend/node_modules/
+frontend_01/build/
+frontend_01/node_modules/
+frontend_01/frontend/node_modules/
